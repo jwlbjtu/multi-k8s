@@ -12,7 +12,7 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <p>
-              Fib Calculator
+              Fib Calculator v2
             </p>
             <a
               className="App-link"
