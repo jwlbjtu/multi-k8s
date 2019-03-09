@@ -12,7 +12,7 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <p>
-              Fib Calculator v2
+              Fib Calculator deployed on Google Cloud with Kubernetes
             </p>
             <a
               className="App-link"
